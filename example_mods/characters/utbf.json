@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				97,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "0Idle instance 1"
+		},
+		{
+			"offsets": [
+				132,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				119,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				111,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				110,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Ouch instance 1"
+		},
+		{
+			"offsets": [
+				104,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Pee instance 1"
+		},
+		{
+			"offsets": [
+				655,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Roses got me like instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				98,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EERR instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				51,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0EEEE instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UT BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfsans",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

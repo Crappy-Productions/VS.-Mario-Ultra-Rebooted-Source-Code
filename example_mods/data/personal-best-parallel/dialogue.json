@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "skebeep bap bep!? bop beep skebap!? (Where am I!? Where is everyone!?)",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "jump",
+			"text": "You don't need your pals here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+		{
+			"expression": "jump",
+			"text": "It's just you-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+		{
+			"expression": "jump",
+			"text": "-and me",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+		{
+			"expression": "pissed",
+			"text": "bep bop, beep bop skebap! (Alright, bring it on!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's a-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+		{
+			"expression": "god",
+			"text": "-spicy meatball",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		}
+	]
+}

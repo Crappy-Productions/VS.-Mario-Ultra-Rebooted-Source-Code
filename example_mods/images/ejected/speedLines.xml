@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speedLines.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speedLines0000" x="0" y="0" width="2199" height="2170" frameX="0" frameY="0" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0001" x="0" y="0" width="2199" height="2170" frameX="0" frameY="300" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0002" x="0" y="0" width="2199" height="2170" frameX="0" frameY="600" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0003" x="0" y="0" width="2199" height="2170" frameX="0" frameY="900" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0004" x="0" y="0" width="2199" height="2170" frameX="0" frameY="1200" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0005" x="0" y="0" width="2199" height="2170" frameX="0" frameY="1500" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0006" x="0" y="0" width="2199" height="2170" frameX="0" frameY="-1500" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0007" x="0" y="0" width="2199" height="2170" frameX="0" frameY="-1200" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0008" x="0" y="0" width="2199" height="2170" frameX="0" frameY="-900" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0009" x="0" y="0" width="2199" height="2170" frameX="0" frameY="-600" frameWidth="2199" frameHeight="2170"/>
+	<SubTexture name="speedLines0010" x="0" y="0" width="2199" height="2170" frameX="0" frameY="-300" frameWidth="2199" frameHeight="2170"/>
+</TextureAtlas>

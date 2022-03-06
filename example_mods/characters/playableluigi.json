@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				148
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Luigi Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				118
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Luigi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				206
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Luigi Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				154
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Luigi Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Luigi Down"
+		},
+		{
+			"offsets": [
+				66,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Luigi Left"
+		},
+		{
+			"offsets": [
+				54,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Luigi Right"
+		},
+		{
+			"offsets": [
+				21,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Luigi Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				167
+			],
+			"anim": "Lets A Go",
+			"fps": 24,
+			"name": "Lets A Go",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Luigi Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LuigiAssets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		0
+	],
+	"camera_position": [
+		150,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

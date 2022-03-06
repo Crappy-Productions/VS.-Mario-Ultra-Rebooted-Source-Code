@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONICFUNIDLE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-147
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICFUNDOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				455,
+				-132
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SONICFUNLEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICFUNUP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SONICFUNRIGHT instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Majin Sonic",
+	"position": [
+		30,
+		50
+	],
+	"healthicon": "Majin Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		2,
+		154
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

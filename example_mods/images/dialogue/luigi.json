@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-200,
+				60
+			],
+			"idle_offsets": [
+				-201,
+				49
+			],
+			"loop_name": "luigitalkloop",
+			"idle_name": "luigitalkidle"
+		},
+		{
+			"loop_offsets": [
+				-195,
+				58
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-196,
+				59
+			],
+			"loop_name": "luigiscared",
+			"idle_name": "luigiscared"
+		},
+		{
+			"loop_name": "luigiworried",
+			"idle_offsets": [
+				-200,
+				60
+			],
+			"idle_name": "luigiworriedidle",
+			"anim": "worried",
+			"loop_offsets": [
+				-201,
+				62
+			]
+		}
+	],
+	"image": "Luigi_Dialogue"
+}

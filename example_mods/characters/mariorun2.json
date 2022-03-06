@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mariorun alt-idle"
+		},
+		{
+			"offsets": [
+				-46,
+				-239
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mariorun up"
+		},
+		{
+			"offsets": [
+				-46,
+				-239
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Mariorun up"
+		},
+		{
+			"offsets": [
+				-30,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mariorun right"
+		},
+		{
+			"offsets": [
+				-30,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Mariorun right"
+		},
+		{
+			"offsets": [
+				-50,
+				-226
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mariorun left"
+		},
+		{
+			"offsets": [
+				-50,
+				-226
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Mariorun left"
+		},
+		{
+			"offsets": [
+				-40,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mariorun down"
+		},
+		{
+			"offsets": [
+				-40,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Mariorun down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mariorun",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		20,
+		42
+	],
+	"camera_position": [
+		110,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

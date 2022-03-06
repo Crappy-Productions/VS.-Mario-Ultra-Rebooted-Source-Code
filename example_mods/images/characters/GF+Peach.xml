@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF+Peach.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF+Peach0000" x="0" y="0" width="660" height="667" frameX="0" frameY="-14" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0001" x="0" y="0" width="660" height="667" frameX="0" frameY="-14" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0002" x="660" y="0" width="659" height="665" frameX="0" frameY="-16" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0003" x="1319" y="0" width="659" height="665" frameX="0" frameY="-16" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0004" x="1978" y="0" width="658" height="668" frameX="0" frameY="-13" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0005" x="2636" y="0" width="658" height="668" frameX="0" frameY="-13" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0006" x="3294" y="0" width="657" height="670" frameX="0" frameY="-11" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0007" x="0" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0008" x="657" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0009" x="657" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0010" x="1314" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0011" x="1314" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0012" x="1314" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0013" x="1971" y="670" width="657" height="681" frameX="0" frameY="0" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0014" x="2628" y="670" width="660" height="681"/>
+	<SubTexture name="GF+Peach0015" x="3288" y="670" width="660" height="669" frameX="0" frameY="-12" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0016" x="0" y="1351" width="659" height="669" frameX="0" frameY="-12" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0017" x="659" y="1351" width="659" height="669" frameX="0" frameY="-12" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0018" x="1318" y="1351" width="658" height="669" frameX="0" frameY="-12" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0019" x="1976" y="1351" width="658" height="670" frameX="0" frameY="-11" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0020" x="2634" y="1351" width="657" height="670" frameX="0" frameY="-11" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0021" x="3291" y="1351" width="657" height="671" frameX="0" frameY="-10" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0022" x="0" y="2022" width="657" height="676" frameX="0" frameY="-5" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0023" x="0" y="2022" width="657" height="676" frameX="0" frameY="-5" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0024" x="0" y="2022" width="657" height="676" frameX="0" frameY="-5" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0025" x="657" y="2022" width="657" height="675" frameX="0" frameY="-6" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0026" x="657" y="2022" width="657" height="675" frameX="0" frameY="-6" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0027" x="657" y="2022" width="657" height="675" frameX="0" frameY="-6" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0028" x="1314" y="2022" width="660" height="675" frameX="0" frameY="-6" frameWidth="660" frameHeight="681"/>
+	<SubTexture name="GF+Peach0029" x="1314" y="2022" width="660" height="675" frameX="0" frameY="-6" frameWidth="660" frameHeight="681"/>
+</TextureAtlas>

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-170,
+		-210
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-212,
+				26
+			],
+			"idle_offsets": [
+				-212,
+				18
+			],
+			"loop_name": "Portrait1",
+			"idle_name": "Portrait1"
+		},
+		{
+			"loop_offsets": [
+				-244,
+				20
+			],
+			"anim": "jump",
+			"idle_offsets": [
+				-256,
+				19
+			],
+			"loop_name": "Portrait2",
+			"idle_name": "Portrait2"
+		},
+		{
+			"idle_offsets": [
+				-213,
+				-38
+			],
+			"anim": "god",
+			"loop_offsets": [
+				-212,
+				-29
+			],
+			"idle_name": "Portrait4",
+			"loop_name": "Portrait4"
+		},
+		{
+			"loop_offsets": [
+				-221,
+				20
+			],
+			"anim": "kick",
+			"idle_offsets": [
+				-220,
+				20
+			],
+			"loop_name": "Portrait3",
+			"idle_name": "Portrait3"
+		}
+	],
+	"image": "SpMario_Dialogue"
+}

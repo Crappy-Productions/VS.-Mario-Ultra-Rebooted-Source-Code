@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="QuestionBlock.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Question Block0000" x="0" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0001" x="152" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0002" x="304" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0003" x="456" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0004" x="608" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0005" x="760" y="0" width="152" height="156"/>
+	<SubTexture name="Question Block0006" x="0" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0007" x="152" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0008" x="304" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0009" x="456" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0010" x="608" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0011" x="760" y="156" width="152" height="156"/>
+	<SubTexture name="Question Block0012" x="0" y="312" width="152" height="156"/>
+	<SubTexture name="Question Block0013" x="152" y="312" width="152" height="156"/>
+	<SubTexture name="Question Block0014" x="304" y="312" width="152" height="156"/>
+</TextureAtlas>

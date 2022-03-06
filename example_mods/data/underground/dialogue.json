@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey hey, that was pretty nice!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "excited",
+			"text": "bop bah bap (oh thank you.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay this next one's gonna be slightly harder, try and keep up mkay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "excited",
+			"text": "bep! (sure can!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		}
+	]
+}

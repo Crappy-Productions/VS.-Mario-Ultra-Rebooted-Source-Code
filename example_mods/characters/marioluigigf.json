@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-109
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-109
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarioLuigiGF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

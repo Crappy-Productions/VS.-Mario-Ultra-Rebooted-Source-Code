@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="weee.png">
+<SubTexture name="weee idle0000" x="0" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="weee idle0001" x="0" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="weee idle0002" x="0" y="1008" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="weee idle0003" x="0" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="weee idle0004" x="0" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+</TextureAtlas>

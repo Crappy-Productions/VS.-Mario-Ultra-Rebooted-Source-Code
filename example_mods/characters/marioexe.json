@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-101,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Marioexe idle"
+		},
+		{
+			"offsets": [
+				-50,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Marioexe left"
+		},
+		{
+			"offsets": [
+				-210,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Marioexe right"
+		},
+		{
+			"offsets": [
+				-80,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Marioexe down"
+		},
+		{
+			"offsets": [
+				-126,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Marioexe up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-10
+			],
+			"anim": "laugh",
+			"fps": 5,
+			"name": "Marioexe hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Marioexe",
+	"position": [
+		-20,
+		70
+	],
+	"healthicon": "marioexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		20,
+		20
+	],
+	"camera_position": [
+		-110,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.15
+}

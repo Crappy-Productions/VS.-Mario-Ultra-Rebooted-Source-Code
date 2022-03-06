@@ -1,0 +1,89 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "skedep beep boop- (Whew that was a close one-)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "-beep bep bop? (-but where are we now?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Hmm, looks like we are in some random place called...Kushroom Mingdom?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "worried",
+			"text": "What even is that Mario?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "luigi"
+		},
+		{
+			"expression": "confused",
+			"text": "Uh it's like a bootleg verson of Mushroom Kingdom? I don't know.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "We should be out of here in no time if no one blocks our way-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "kick",
+			"text": "Yahoo!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+		{
+			"expression": "shocked",
+			"text": "What the hell is that!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "luigi"
+		},
+		{
+			"expression": "talk",
+			"text": "Ah great, a bootleg version of me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "pissed",
+			"text": "bep skebeep bop bap! (Fight me fake Mario!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That's a-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		},
+
+		{
+			"expression": "talk",
+			"text": "-spicy meatball",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spmario"
+		}
+	]
+}

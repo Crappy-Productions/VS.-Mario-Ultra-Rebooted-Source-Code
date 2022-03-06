@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Wow you did really good.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "excited",
+			"text": "beep beep! (yea that was sick!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Honestly at this rate, we could probably beat Bowser if he thinks he can take us on!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "bep!? (really!?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, but before we head off, one last song, aight man? This one's a long one!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea we should seriously hit the road after this one, it's taking ages.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mkay.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		}
+	]
+}

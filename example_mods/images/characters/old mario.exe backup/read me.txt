@@ -1,0 +1,1 @@
+put the Marioexe.png to FNF Mario Demo\mods\images\characters and Marioexe.json to FNF Mario Demo\mods\characters if you want this :/

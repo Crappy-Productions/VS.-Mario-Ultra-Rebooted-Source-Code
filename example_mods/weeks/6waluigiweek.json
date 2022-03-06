@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"waluigi-island",
+			"waluigi",
+			[
+				140,
+				0,
+				255
+			]
+		],
+		[
+			"pinball-panic",
+			"waluigi",
+			[
+				140,
+				0,
+				255
+			]
+		],
+		[
+			"destruction-disco",
+			"madwaluigi",
+			[
+				140,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Waluigi",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Pinball Madness (DEMO)",
+	"weekName": "Week WL",
+	"freeplayColor": [
+		20,
+		145,
+		74
+	],
+	"hideStoryMode": false,
+	"weekBefore": "5yoshiweek",
+	"startUnlocked": false
+}

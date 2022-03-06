@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluetoad.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Blue Toad instance 10000" x="0" y="0" width="312" height="363" frameX="0" frameY="-3" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10001" x="0" y="0" width="312" height="363" frameX="0" frameY="-3" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10002" x="312" y="0" width="311" height="364" frameX="-8" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10003" x="312" y="0" width="311" height="364" frameX="-8" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10004" x="623" y="0" width="310" height="364" frameX="-13" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10005" x="623" y="0" width="310" height="364" frameX="-13" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10006" x="0" y="364" width="310" height="366" frameX="-18" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10007" x="0" y="364" width="310" height="366" frameX="-18" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10008" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10009" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10010" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10011" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10012" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10013" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10014" x="0" y="0" width="312" height="363" frameX="0" frameY="-3" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10015" x="0" y="0" width="312" height="363" frameX="0" frameY="-3" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10016" x="312" y="0" width="311" height="364" frameX="-8" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10017" x="312" y="0" width="311" height="364" frameX="-8" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10018" x="623" y="0" width="310" height="364" frameX="-13" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10019" x="623" y="0" width="310" height="364" frameX="-13" frameY="-2" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10020" x="0" y="364" width="310" height="366" frameX="-18" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10021" x="0" y="364" width="310" height="366" frameX="-18" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10022" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10023" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10024" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10025" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10026" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+	<SubTexture name="Blue Toad instance 10027" x="310" y="364" width="309" height="366" frameX="-22" frameY="0" frameWidth="331" frameHeight="366"/>
+</TextureAtlas>

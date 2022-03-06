@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Flower-garden",
+			"yoshi",
+			[
+				0,
+				153,
+				80
+			]
+		],
+		[
+			"Underground",
+			"yoshi",
+			[
+				0,
+				153,
+				80
+			]
+		],
+		[
+			"Spikey-stroll",
+			"yoshi",
+			[
+				0,
+				153,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Yoshi",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Back on SNES (DEMO)",
+	"weekName": "Week Y",
+	"freeplayColor": [
+		20,
+		145,
+		74
+	],
+	"hideStoryMode": false,
+	"weekBefore": "3luigiweek",
+	"startUnlocked": false
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scrollingClouds.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scrollingClouds0000" x="0" y="0" width="4096" height="1024" frameX="0" frameY="0" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0001" x="0" y="0" width="4096" height="1024" frameX="0" frameY="200" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0002" x="0" y="0" width="4096" height="1024" frameX="0" frameY="400" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0003" x="0" y="0" width="4096" height="1024" frameX="0" frameY="600" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0004" x="0" y="0" width="4096" height="1024" frameX="0" frameY="800" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0005" x="0" y="0" width="4096" height="1024" frameX="0" frameY="1000" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0006" x="0" y="0" width="4096" height="1024" frameX="0" frameY="1200" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0007" x="0" y="0" width="4096" height="1024" frameX="0" frameY="1400" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0008" x="0" y="0" width="4096" height="1024" frameX="0" frameY="1600" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0009" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-1800" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0010" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-1600" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0011" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-1400" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0012" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-1200" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0013" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-1000" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0014" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-800" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0015" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-600" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0016" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-400" frameWidth="4096" frameHeight="1024"/>
+	<SubTexture name="scrollingClouds0017" x="0" y="0" width="4096" height="1024" frameX="0" frameY="-200" frameWidth="4096" frameHeight="1024"/>
+</TextureAtlas>

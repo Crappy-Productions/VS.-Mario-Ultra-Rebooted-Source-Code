@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				96,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Idle"
+		},
+		{
+			"offsets": [
+				44,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Right"
+		},
+		{
+			"offsets": [
+				60,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Left"
+		},
+		{
+			"offsets": [
+				52,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Down"
+		},
+		{
+			"offsets": [
+				45,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario Up"
+		},
+		{
+			"offsets": [
+				141,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "UGH",
+			"indices": [],
+			"name": "Mario Ugh"
+		},
+		{
+			"offsets": [
+				97,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "HEY",
+			"indices": [],
+			"name": "Mario Peace Sign"
+		},
+		{
+			"offsets": [
+				48,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Thumbs Up",
+			"indices": [],
+			"name": "Mario Thumbs Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarioWire",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mariowire",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		0,
+		1
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

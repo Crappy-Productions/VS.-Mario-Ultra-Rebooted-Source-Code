@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				216,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Idle"
+		},
+		{
+			"offsets": [
+				164,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Right"
+		},
+		{
+			"offsets": [
+				180,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Left"
+		},
+		{
+			"offsets": [
+				172,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Down"
+		},
+		{
+			"offsets": [
+				165,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarioFireAssets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		28,
+		36
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

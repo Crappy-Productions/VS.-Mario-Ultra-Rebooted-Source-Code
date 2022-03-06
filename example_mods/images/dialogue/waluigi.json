@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-170,
+		-210
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-242,
+				-195
+			],
+			"idle_offsets": [
+				-242,
+				-192
+			],
+			"loop_name": "Waluigi Neutral",
+			"idle_name": "Waluigi Neutral"
+		},
+		{
+			"loop_offsets": [
+				-284,
+				-170
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-286,
+				-171
+			],
+			"loop_name": "Waluigi Surprised",
+			"idle_name": "Waluigi Surprised"
+		},
+		{
+			"idle_offsets": [
+				-284,
+				-197
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				-285,
+				-197
+			],
+			"idle_name": "Waluigi Happy",
+			"loop_name": "Waluigi Happy"
+		},
+		{
+			"idle_offsets": [
+				-270,
+				-197
+			],
+			"anim": "bomb",
+			"loop_offsets": [
+				-271,
+				-195
+			],
+			"idle_name": "Waluigi Bomb",
+			"loop_name": "Waluigi Bomb"
+		},
+		{
+			"idle_offsets": [
+				-280,
+				-193
+			],
+			"anim": "mad",
+			"loop_offsets": [
+				-281,
+				-193
+			],
+			"idle_name": "Waluigi Mad",
+			"loop_name": "Waluigi Mad"
+		},
+		{
+			"idle_offsets": [
+				-277,
+				-195
+			],
+			"anim": "2mad",
+			"loop_offsets": [
+				-277,
+				-195
+			],
+			"idle_name": "Waluigi Very Mad",
+			"loop_name": "Waluigi Very Mad"
+		},
+		{
+			"loop_offsets": [
+				-281,
+				-190
+			],
+			"anim": "sweat",
+			"idle_offsets": [
+				-280,
+				-190
+			],
+			"loop_name": "Waluigi Sweat",
+			"idle_name": "Waluigi Sweat"
+		}
+	],
+	"image": "Waluigi_Dialogue"
+}

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "GF Dancing Beat instance"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "GF Dancing Beat instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarioToadGF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

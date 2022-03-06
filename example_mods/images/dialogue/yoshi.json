@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-170,
+		-210
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-212,
+				8
+			],
+			"idle_offsets": [
+				-212,
+				8
+			],
+			"loop_name": "Portrait2",
+			"idle_name": "Portrait2"
+		},
+		{
+			"loop_offsets": [
+				-204,
+				20
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-206,
+				19
+			],
+			"loop_name": "Portrait1",
+			"idle_name": "Portrait1"
+		},
+		{
+			"idle_offsets": [
+				-220,
+				-70
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				-221,
+				-68
+			],
+			"idle_name": "Portrait4",
+			"loop_name": "Portrait4"
+		},
+		{
+			"loop_offsets": [
+				-221,
+				-30
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-220,
+				-30
+			],
+			"loop_name": "Portrait3",
+			"idle_name": "Portrait3"
+		}
+	],
+	"image": "Yoshi_Dialogue"
+}

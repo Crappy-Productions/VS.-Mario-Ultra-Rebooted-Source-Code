@@ -1,0 +1,90 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Wuh-hoa! What is that??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "bop beep (Um hey?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Uhh.. hey there, little guy. You're not another one of those babies that fell down, are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "skdoo ah bep beep (Um I'm finding my girlfriend who was captured by a guy call Boswer?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Your girlfriend was caught by Bowser? Weird how he didn't notice she's not the princess-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh he took the pincess as well.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "shocked",
+			"text": "Mario!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea, we were on our way to Bowser's castle.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "bep beep bop bap? (Wanna rap dino?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure. Also please call me Yoshi.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+
+		{
+			"expression": "talk",
+			"text": "bop bee ba, bep bop skeda? (Ok Yoshi, you ready?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+
+		{
+			"expression": "talk",
+			"text": "Alright then, here goes..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		}
+	]
+}

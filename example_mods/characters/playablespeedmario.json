@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-49,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				44,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-49,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				44,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpeedMarioAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "speedmario",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		7,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

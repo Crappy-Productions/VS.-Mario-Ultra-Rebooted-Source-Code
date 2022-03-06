@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Mansion",
+			"luigi",
+			[
+				0,
+				153,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Luigi",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "L is Real (DEMO)",
+	"weekName": "Week L",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "1marioweek",
+	"startUnlocked": false
+}

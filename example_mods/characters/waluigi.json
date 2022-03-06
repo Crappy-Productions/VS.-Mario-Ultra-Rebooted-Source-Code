@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				308
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "shout",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				316
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				302
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				305
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				305
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				303
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				302
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				316
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Waluigi_Assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "waluigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		255
+	],
+	"camera_position": [
+		150,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

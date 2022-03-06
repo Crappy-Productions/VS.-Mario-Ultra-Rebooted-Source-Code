@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "BEEP SKE BOP???? (Where am I????)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello there! You're in the Mushroom Kingdom!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "Baboop peebop? (How did I get here?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I'm not really sure, to be honest...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "I was just traveling through warp pipes and then I suddenly saw you here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "Bee... (Wait...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "BABOOP SKEDOP?!?! (WHERE'S GF?!?!)",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Does this GF of yours happen to have brown hair, wear red, and is around your height?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Bep! (Yes!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "I'm sorry to tell ya, but she was kidnapped by Bowser along with Princess Peach...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Mario"
+		},
+		{
+			"expression": "shocked",
+			"text": "BAP?!?! (WHAT?!?!)",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't worry! I was on my way to save them! I know exactly where Bowser went!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Babop skadoo! (I can help you!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, saving the Princess (and GF) is no easy task!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll have to teach you the basics of going on adventures and defeating enemies!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "Baskoo dabee! (I'm up for the challenge!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well then, first thing's first! If you see any goombas, be sure to stomp them!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you miss 'em, then you'll end up taking some damage. So stay alert!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		},
+		{
+			"expression": "talk",
+			"text": "Okey dokey! Let's-a-go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		}
+	]
+}

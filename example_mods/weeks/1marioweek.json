@@ -1,0 +1,48 @@
+{
+	"storyName": "Let's-A-Go! (DEMO)",
+	"hideFreeplay": false,
+	"weekBackground": "mario",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Overworld",
+			"mario",
+			[
+				237,
+				28,
+				36
+			]
+		],
+		[
+			"Bob-ombs",
+			"mario",
+			[
+				237,
+				28,
+				36
+			]
+		],
+		[
+			"Athletic",
+			"mario",
+			[
+				237,
+				28,
+				36
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week M"
+}

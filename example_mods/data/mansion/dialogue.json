@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, Luigi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "HUH?!?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh... It's just you, Mario!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Wait who's this guy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skadoop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, this is BF! I just met him earlier today!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The Princess and his girlfriend were both kidanpped by Bowser, so we're on a mission to save them!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another rescue mission? Well, then I suppose we should probably find a way out of this mansion then..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Badoo? (Where's the exit?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh it's just over-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHERE DID THE EXIT GO!?!??!?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Calm down, Luigi! You're an expert at escaping these types of places!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're right! I can get us out of here! Just follow along with me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Skebeep baboop! (Let's do this!)"
+		}
+	]
+}

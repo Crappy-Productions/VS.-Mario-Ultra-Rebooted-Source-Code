@@ -1,0 +1,89 @@
+{
+	"dialogue": [
+		{
+			"expression": "2mad",
+			"text": "WAAAAAAAAH!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "excited",
+			"text": "beep bap bop! (In your face!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "skedoop bep boop bap beep bop (You said you will let us in cheater.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Me? A cheater???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "sweat",
+			"text": "Wahaha... the thing is, boyfriend-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "happy",
+			"text": "I did say we were playing by my own terms.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "bomb",
+			"text": "So why not have a crap ton of Bob-ombs to make such an explosive finale!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "shocked",
+			"text": "Where are all this bob-ombs coming from!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "luigi"
+		},
+		{
+			"expression": "happy",
+			"text": "WAH! Now let Waluigi simply show you how to bust a move. Keep up your pace-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "2mad",
+			"text": "or that bomb will blow up in your face!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "sad",
+			"text": "You bastard...",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "yoshi"
+		},
+		{
+			"expression": "happy",
+			"text": "WAHAHAHAHAHA!!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		}
+
+	]
+}

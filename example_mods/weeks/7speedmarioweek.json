@@ -1,0 +1,75 @@
+{
+	"songs": [
+		[
+			"Personal Best",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		],
+		[
+			"Qpu Alignment",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		],
+		[
+			"Speed Demon",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		],
+		[
+			"Personal Best Parallel",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		],
+		[
+			"Qpu Alignment Parallel",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		],
+		[
+			"Speed Demon Parallel",
+			"speedmario",
+			[
+				203,
+				7,
+				50
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "SpeedMario",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Good Luck Beating This (DEMO)",
+	"weekName": "Week SM",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "6waluigiweek",
+	"startUnlocked": false
+}

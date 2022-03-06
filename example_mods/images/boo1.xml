@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boo1.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1 Boo0000" x="0" y="0" width="335" height="315" frameX="-4" frameY="-4" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0001" x="0" y="0" width="335" height="315" frameX="-4" frameY="-4" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0002" x="335" y="0" width="343" height="315" frameX="0" frameY="-4" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0003" x="335" y="0" width="343" height="315" frameX="0" frameY="-4" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0004" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0005" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0006" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0007" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0008" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0009" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0010" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0011" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0012" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+	<SubTexture name="1 Boo0013" x="678" y="0" width="327" height="319" frameX="-8" frameY="0" frameWidth="343" frameHeight="319"/>
+</TextureAtlas>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario fall.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario Fall0000" x="0" y="0" width="521" height="542"/>
+	<SubTexture name="Mario Fall Down0000" x="521" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0001" x="521" y="0" width="500" height="500" frameX="0" frameY="-5" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0002" x="1021" y="0" width="500" height="432" frameX="0" frameY="-45" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0003" x="1021" y="0" width="500" height="432" frameX="0" frameY="-45" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0004" x="1021" y="0" width="500" height="432" frameX="0" frameY="-45" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0005" x="1021" y="0" width="500" height="432" frameX="0" frameY="-39" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0006" x="521" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Down0007" x="521" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="506"/>
+	<SubTexture name="Mario Fall Idle0000" x="0" y="0" width="521" height="542" frameX="-32" frameY="-22" frameWidth="521" frameHeight="542"/>
+	<SubTexture name="Mario Fall Idle0001" x="1521" y="0" width="533" height="553" frameX="-32" frameY="-11" frameWidth="576" frameHeight="597"/>
+	<SubTexture name="Mario Fall Idle0002" x="2054" y="0" width="576" height="597"/>
+	<SubTexture name="Mario Fall Idle0003" x="2054" y="0" width="576" height="597"/>
+	<SubTexture name="Mario Fall Idle0004" x="2054" y="0" width="576" height="597"/>
+	<SubTexture name="Mario Fall Idle0005" x="2630" y="0" width="565" height="586" frameX="0" frameY="-11" frameWidth="576" frameHeight="597"/>
+	<SubTexture name="Mario Fall Idle0006" x="0" y="0" width="521" height="542" frameX="-32" frameY="-22" frameWidth="521" frameHeight="542"/>
+	<SubTexture name="Mario Fall Idle0007" x="0" y="0" width="521" height="542" frameX="-32" frameY="-22" frameWidth="521" frameHeight="542"/>
+	<SubTexture name="Mario Fall Left0000" x="3195" y="0" width="500" height="540" frameX="-79" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0001" x="0" y="597" width="536" height="541" frameX="-61" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0002" x="536" y="597" width="659" height="540" frameX="0" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0003" x="536" y="597" width="659" height="540" frameX="0" frameY="-1" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0004" x="536" y="597" width="659" height="540" frameX="0" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0005" x="1195" y="597" width="626" height="541" frameX="-16" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0006" x="3195" y="0" width="500" height="540" frameX="-79" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Left0007" x="3195" y="0" width="500" height="540" frameX="-79" frameY="0" frameWidth="659" frameHeight="541"/>
+	<SubTexture name="Mario Fall Right0000" x="1821" y="597" width="507" height="556" frameX="-58" frameY="0" frameWidth="624" frameHeight="556"/>
+	<SubTexture name="Mario Fall Right0001" x="2328" y="597" width="512" height="556" frameX="-56" frameY="0" frameWidth="624" frameHeight="556"/>
+	<SubTexture name="Mario Fall Right0002" x="2840" y="597" width="624" height="556"/>
+	<SubTexture name="Mario Fall Right0003" x="2840" y="597" width="624" height="556"/>
+	<SubTexture name="Mario Fall Right0004" x="2840" y="597" width="624" height="556"/>
+	<SubTexture name="Mario Fall Right0005" x="3464" y="597" width="618" height="556" frameX="-3" frameY="0" frameWidth="624" frameHeight="556"/>
+	<SubTexture name="Mario Fall Right0006" x="1821" y="597" width="507" height="556" frameX="-58" frameY="0" frameWidth="624" frameHeight="556"/>
+	<SubTexture name="Mario Fall Right0007" x="1821" y="597" width="507" height="556" frameX="-58" frameY="0" frameWidth="624" frameHeight="556"/>
+	<SubTexture name="Mario Fall Up0000" x="0" y="1153" width="500" height="500" frameX="0" frameY="-58" frameWidth="500" frameHeight="617"/>
+	<SubTexture name="Mario Fall Up0001" x="0" y="1153" width="500" height="500" frameX="0" frameY="-58" frameWidth="500" frameHeight="617"/>
+	<SubTexture name="Mario Fall Up0002" x="500" y="1153" width="500" height="617"/>
+	<SubTexture name="Mario Fall Up0003" x="500" y="1153" width="500" height="617"/>
+	<SubTexture name="Mario Fall Up0004" x="500" y="1153" width="500" height="617"/>
+	<SubTexture name="Mario Fall Up0005" x="500" y="1153" width="500" height="617"/>
+	<SubTexture name="Mario Fall Up0006" x="0" y="1153" width="500" height="500" frameX="0" frameY="-58" frameWidth="500" frameHeight="617"/>
+	<SubTexture name="Mario Fall Up0007" x="0" y="1153" width="500" height="500" frameX="0" frameY="-58" frameWidth="500" frameHeight="617"/>
+</TextureAtlas>

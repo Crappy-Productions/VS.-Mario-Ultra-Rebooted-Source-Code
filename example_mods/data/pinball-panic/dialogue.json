@@ -1,0 +1,75 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "WAH!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sweat",
+			"text": "Grr... you're not as bad as I originally thought.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "excited",
+			"text": "beep bap beh ske (Yea baby that's right.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sweat",
+			"text": "The arrogant type, are we? ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "happy",
+			"text": "Alright blue boy, let's kick things up a notch.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "excited",
+			"text": "bep boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sweat",
+			"text": "Good luck, you're going to need it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "happy",
+			"text": "Wahaha!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "worried",
+			"text": "Why do i have a bad feeling about this?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "luigi"
+		}
+
+	]
+}

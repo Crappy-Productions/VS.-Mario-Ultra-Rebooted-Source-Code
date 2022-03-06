@@ -1,0 +1,89 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "bap beep bep boop! (This place looks cool!)",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Wahaha! Welcome to my pinball land attraction! I take it you're here for a tour?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "shocked",
+			"text": "You run this place?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "happy",
+			"text": "Wahaha of course!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "talk",
+			"text": "Hold on a second. You look familiar...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "sad",
+			"text": "I don't think we have we met before?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "shocked",
+			"text": "Mario!? You should be banned here! You almost made me and my brother DIED!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "shocked",
+			"text": "skedoop bah bop!? (What is going on!?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Fine, I'll let you in on my own terms-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "mad",
+			"text": "-only if that little boy beat me in a rap battle!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		},
+		{
+			"expression": "pissed",
+			"text": "skebep beep bop! (Alright, bring it on!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Alrighty then Mr. Big Shot, let's a-go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "waluigi"
+		}
+
+	]
+}

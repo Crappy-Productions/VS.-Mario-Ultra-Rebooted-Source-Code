@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="piranhaplant.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pipe Plant Idle0000" x="0" y="0" width="591" height="819" frameX="0" frameY="-15" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0001" x="0" y="0" width="591" height="819" frameX="0" frameY="-15" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0002" x="591" y="0" width="588" height="821" frameX="0" frameY="-13" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0003" x="591" y="0" width="588" height="821" frameX="0" frameY="-13" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0004" x="1179" y="0" width="581" height="824" frameX="-5" frameY="-10" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0005" x="1179" y="0" width="581" height="824" frameX="-5" frameY="-10" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0006" x="0" y="824" width="578" height="833" frameX="-8" frameY="-1" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0007" x="0" y="824" width="578" height="833" frameX="-8" frameY="-1" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0008" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0009" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0010" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0011" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0012" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+	<SubTexture name="Pipe Plant Idle0013" x="578" y="824" width="577" height="834" frameX="-9" frameY="0" frameWidth="591" frameHeight="834"/>
+</TextureAtlas>

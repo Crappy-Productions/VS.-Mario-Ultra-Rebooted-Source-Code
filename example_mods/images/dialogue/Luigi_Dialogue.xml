@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luigiscared0000" x="0" y="0" width="426" height="629" frameX="-3" frameY="0" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigiscared0001" x="0" y="0" width="426" height="629" frameX="-3" frameY="0" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigiscared0002" x="426" y="0" width="426" height="625" frameX="-3" frameY="-4" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigiscared0003" x="426" y="0" width="426" height="625" frameX="-3" frameY="-4" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigiscared0004" x="852" y="0" width="432" height="617" frameX="0" frameY="-12" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigiscared0005" x="852" y="0" width="432" height="617" frameX="0" frameY="-12" frameWidth="432" frameHeight="629"/>
+	<SubTexture name="luigitalkidle0000" x="1284" y="0" width="432" height="620"/>
+	<SubTexture name="luigitalkloop0000" x="0" y="629" width="426" height="627" frameX="-3" frameY="0" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigitalkloop0001" x="0" y="629" width="426" height="627" frameX="-3" frameY="0" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigitalkloop0002" x="426" y="629" width="426" height="623" frameX="-3" frameY="-4" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigitalkloop0003" x="852" y="629" width="426" height="623" frameX="-3" frameY="-4" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigitalkloop0004" x="1278" y="629" width="432" height="620" frameX="0" frameY="-7" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigitalkloop0005" x="1278" y="629" width="432" height="620" frameX="0" frameY="-7" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0000" x="0" y="1256" width="426" height="627" frameX="-3" frameY="0" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0001" x="0" y="1256" width="426" height="627" frameX="-3" frameY="0" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0002" x="426" y="1256" width="426" height="625" frameX="-3" frameY="-2" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0003" x="426" y="1256" width="426" height="625" frameX="-3" frameY="-2" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0004" x="852" y="1256" width="432" height="623" frameX="0" frameY="-4" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworried0005" x="852" y="1256" width="432" height="623" frameX="0" frameY="-4" frameWidth="432" frameHeight="627"/>
+	<SubTexture name="luigiworriedidle0000" x="1284" y="1256" width="432" height="623"/>
+</TextureAtlas>

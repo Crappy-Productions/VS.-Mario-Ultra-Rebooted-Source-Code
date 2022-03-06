@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				305
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				303
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				302
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				316
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Waluigi_TennisMad",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "madwaluigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		255
+	],
+	"camera_position": [
+		150,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

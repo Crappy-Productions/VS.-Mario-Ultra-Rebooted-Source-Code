@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "weee idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/weee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

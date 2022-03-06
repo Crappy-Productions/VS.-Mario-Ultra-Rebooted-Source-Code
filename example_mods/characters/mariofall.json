@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Fall Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Fall Left"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Fall Right"
+		},
+		{
+			"offsets": [
+				-150,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Fall Down"
+		},
+		{
+			"offsets": [
+				-276,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario Fall Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mariofall",
+	"position": [
+		-200,
+		130
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		28,
+		36
+	],
+	"camera_position": [
+		-120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
